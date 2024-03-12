@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:技术八股/JavaScript  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:技术八股/可视化相关  ",
+      "color": {
+        "a": 1,
+        "rgb": 3893506
+      }
+    },
+    {
+      "query": "path:面经  ",
+      "color": {
+        "a": 1,
+        "rgb": 11141027
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0.6,
+  "nodeSizeMultiplier": 0.886759440104167,
+  "lineSizeMultiplier": 0.491585286458333,
+  "collapse-forces": false,
+  "centerStrength": 1,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 1,
+  "close": true
+}

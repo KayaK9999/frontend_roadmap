@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "af661f8d8f7bd054",
+    "type": "split",
+    "children": [
+      {
+        "id": "57e3e4eb782289bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70c3a4fbbce7b40e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术八股/JavaScript/JS总览.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c31d88598d376a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "防抖节流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c78214c31a8d3673",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec8d6fa31f08f0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58ee0fd35319fb4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "d15e3a1a1de9cf3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24e3424665fa93e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "right": {
+    "id": "f91c905bf2e0d851",
+    "type": "split",
+    "children": [
+      {
+        "id": "6312650b6aeee35d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "459e5f2c702b8803",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "防抖节流.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39de39f7ff34b04b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "防抖节流.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd0033bb915ce8be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d2f0c15b31ae75c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "防抖节流.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1c31d88598d376a2",
+  "lastOpenFiles": [
+    "技术八股/JavaScript/JS总览.md",
+    "防抖节流.md",
+    "面经/JavaScript/this 绑定.md",
+    "面经/JavaScript/手写 call() 和 apply() 和 bind().md",
+    "面经/JavaScript/如何在 ES5 环境下实现 let 和 const.md",
+    "技术八股/JavaScript/函数绑定.md",
+    "技术八股/JavaScript/装饰器和转发.md",
+    "技术八股/JavaScript/Number.md",
+    "技术八股/JavaScript/symbol.md",
+    "技术八股/JavaScript/Proxy 和 Reflect.md",
+    "JS.md",
+    "技术八股/JavaScript/属性配置.md",
+    "技术八股/JavaScript/代码结构.md",
+    "技术八股/JavaScript/对象基础知识.md",
+    "面经/JavaScript",
+    "技术八股/JavaScript/内建方法.md",
+    "技术八股/浏览器/浏览器总览.md",
+    "技术八股/可视化相关/D3.md",
+    "技术八股/可视化相关/SVG.md",
+    "技术八股/JavaScript/BigInt.md",
+    "算法/字符串.md",
+    "算法",
+    "技术八股/JavaScript/数据类型",
+    "技术八股/浏览器",
+    "技术八股/可视化相关/SVG",
+    "技术八股/可视化相关"
+  ]
+}
