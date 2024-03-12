@@ -15,7 +15,7 @@ https://zh.javascript.info/
 - [[symbol]] 用于唯一的标识符。
 ##### 引用类型
 - `object` 对象用于更复杂的数据结构。
-- array
+- [[array]]
 - function
 - date
 ##### 值的比较
@@ -28,13 +28,20 @@ https://zh.javascript.info/
 
 1. [[装饰器和转发]]
 2. [[函数绑定]]
+3. [[调度：setTimeout 和 setInterval]]
 
 #### 对象
 
 1. [[对象基础知识]]
 2. [[属性配置]]
-4. 原型，继承
-5. 类
+
+
+#### 面向对象
+1. 原型，继承
+2. 类
+
+#### [[Promise，async-await，Generator]]
+
 
 
 #### 不知道放哪

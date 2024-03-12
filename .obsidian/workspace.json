@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "57e3e4eb782289bf",
+        "id": "fdbf91d413003ae1",
         "type": "tabs",
         "children": [
           {
-            "id": "70c3a4fbbce7b40e",
+            "id": "093f0fde24efde2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术八股/JavaScript/JS总览.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c31d88598d376a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "防抖节流.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "防抖节流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "防抖节流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "防抖节流.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,29 +139,37 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1c31d88598d376a2",
+  "active": "093f0fde24efde2d",
   "lastOpenFiles": [
+    "面经/JavaScript/手写一个 Promise.md",
+    "面经/JavaScript/如何在 ES5 环境下实现 let 和 const.md",
+    "技术八股/JavaScript/Promise，async-await，Generator.md",
+    "技术八股/JavaScript/装饰器和转发.md",
+    "技术八股/JavaScript/Proxy 和 Reflect.md",
     "技术八股/JavaScript/JS总览.md",
-    "防抖节流.md",
+    "mind.md",
+    "技术八股/JavaScript/array.md",
+    "技术八股/JavaScript/属性配置.md",
+    "技术八股/JavaScript/内建方法.md",
+    "Promise，async/await，Generator.md",
+    "Promise，async",
+    "面经/JavaScript/数组扁平化.md",
+    "技术八股/其他/正则表达式.md",
+    "技术八股/其他",
+    "技术八股/JavaScript/调度：setTimeout 和 setInterval.md",
+    "面经/JavaScript/手写防抖-节流函数.md",
+    "技术八股/JavaScript/防抖节流.md",
     "面经/JavaScript/this 绑定.md",
     "面经/JavaScript/手写 call() 和 apply() 和 bind().md",
-    "面经/JavaScript/如何在 ES5 环境下实现 let 和 const.md",
     "技术八股/JavaScript/函数绑定.md",
-    "技术八股/JavaScript/装饰器和转发.md",
     "技术八股/JavaScript/Number.md",
     "技术八股/JavaScript/symbol.md",
-    "技术八股/JavaScript/Proxy 和 Reflect.md",
     "JS.md",
-    "技术八股/JavaScript/属性配置.md",
     "技术八股/JavaScript/代码结构.md",
     "技术八股/JavaScript/对象基础知识.md",
     "面经/JavaScript",
-    "技术八股/JavaScript/内建方法.md",
     "技术八股/浏览器/浏览器总览.md",
     "技术八股/可视化相关/D3.md",
-    "技术八股/可视化相关/SVG.md",
-    "技术八股/JavaScript/BigInt.md",
-    "算法/字符串.md",
     "算法",
     "技术八股/JavaScript/数据类型",
     "技术八股/浏览器",
